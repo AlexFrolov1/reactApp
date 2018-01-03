@@ -1,0 +1,13 @@
+.hello {
+	color: #000;
+	font-family: 'BurfordRusticBookBold';
+	font-size: 50px;
+	text-decoration: underline;
+}
+@font-face {
+    font-family: 'BurfordRusticBookBold';
+    src: url('../fonts/BurfordRusticBookBold.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}

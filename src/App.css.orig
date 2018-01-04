@@ -7,13 +7,18 @@
   height: 80px;
 }
 
+<<<<<<< HEAD
 .test2 {
-  top:10px;}
-  
+  top:10px;
+}
+
+
+=======
 .test1 {
   top:0;
 }
 
+>>>>>>> master
 .App-header {
   background-color: #222;
   height: 150px;

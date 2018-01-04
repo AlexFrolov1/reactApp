@@ -27,10 +27,6 @@ const mainmenu = [
 {
 	link: '/contact',
 	label: 'Contact'
-},
-{
-	link: '/project',
-	label: 'Project'
 }
 ];
 

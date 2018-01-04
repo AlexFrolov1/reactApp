@@ -7,21 +7,11 @@
   height: 80px;
 }
 
-.test {
-  height: 10px;
-  float: left;
-  right: 0;
-}
-
-.test_one {
-  bottom: 0;
+.test2 {
+top: 10px;
 }
 
 
-
-.test_two {
-  top: 0;
-}
 
 .App-header {
   background-color: #222;
